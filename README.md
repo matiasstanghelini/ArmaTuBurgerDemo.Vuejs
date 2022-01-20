@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-npm install
+npm install json-server
 ```
 
 ### Comando para iniciar server
