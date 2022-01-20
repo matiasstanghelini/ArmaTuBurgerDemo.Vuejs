@@ -5,7 +5,7 @@
 npm install json-server
 ```
 
-### Comando para iniciar server
+### Comando para iniciar el proyecto
 ```
 npm run serve
 ```
