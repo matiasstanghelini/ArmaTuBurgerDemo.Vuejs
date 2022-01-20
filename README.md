@@ -2,17 +2,17 @@
 
 ## Project setup
 ```
-yarn install
+npm install
 ```
 
-### Compiles and hot-reloads for development
+### Comando para iniciar server
 ```
-yarn serve
+npm run serve
 ```
 
-### Compiles and minifies for production
+### Comando para inicializar el backend
 ```
-yarn build
+npm run backend
 ```
 
 ### Customize configuration
