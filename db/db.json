@@ -1,0 +1,92 @@
+{
+  "ingredientes": {
+    "paes": [
+      {
+        "id": 1,
+        "tipo": "Italiano Blanco"
+      },
+      {
+        "id": 2,
+        "tipo": "3 Quesos"
+      },
+      {
+        "id": 3,
+        "tipo": "Parmesano y oregano"
+      },
+      {
+        "id": 4,
+        "tipo": "Integral"
+      }
+    ],
+    "carnes": [
+      {
+        "id": 1,
+        "tipo": "Carne Vacuna"
+      },
+      {
+        "id": 2,
+        "tipo": "Pollo"
+      },
+      {
+        "id": 3,
+        "tipo": "Cerdo"
+      },
+      {
+        "id": 4,
+        "tipo": "Veggie burger"
+      }
+    ],
+    "opcionais": [
+      {
+        "id": 1,
+        "tipo": "Ninguno"
+      },
+      {
+        "id": 2,
+        "tipo": "Cheddar"
+      },
+      {
+        "id": 3,
+        "tipo": "Salame"
+      },
+      {
+        "id": 4,
+        "tipo": "Tomate"
+      },
+      {
+        "id": 4,
+        "tipo": "Cebola morada"
+      },
+      {
+        "id": 4,
+        "tipo": "Pepino"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Solicitado"
+    },
+    {
+      "id": 2,
+      "tipo": "En Produccion"
+    },
+    {
+      "id": 3,
+      "tipo": "Finalizado"
+    }
+  ],
+  "burgers": [
+    {
+      "nome": "matias",
+      "carne": "Carne Vacuna",
+      "pao": "Italiano Blanco",
+      "opcionais": [
+        "Ninguno"
+      ],
+      "status": "Solicitado",
+      "id": 1
+    }
+  ]
+}
